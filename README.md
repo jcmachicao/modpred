@@ -1,2 +1,2 @@
-# uc_curso_modelamientopredictivo
-Curso de Modelamiento Predictivo para la PNP. Universidad Continental
+# Curso de Modelamiento Predictivo para la PNP. 
+Curso Desarrollado por el Docente José Machicao para la Universidad Continental
