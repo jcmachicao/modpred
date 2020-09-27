@@ -29,6 +29,11 @@ Tema 4: Métodos de Agrupamiento (Clustering)
 * Aplica instrumentos de modelamiento de clasificación	
 * Implementa una aplicación en Google Colab	
 
+Tema 5: Métodos Predictivos	
+* Conoce los algoritmos de modelamiento predictivo	
+* Apertura para tipos diversos de comunicación
+* Inquietud por comprender el proceso decisional innovador
+
 
 MIT License
 
@@ -53,7 +58,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Tema 5: Métodos Predictivos	
-* Conoce los algoritmos de modelamiento predictivo	
-* Apertura para tipos diversos de comunicación
-* Inquietud por comprender el proceso decisional innovador
