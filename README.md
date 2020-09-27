@@ -1,4 +1,4 @@
-# Curso de Modelamiento Predictivo.
+# Curso de Modelamiento Predictivo
 Curso Desarrollado por el Docente José Machicao para la Universidad Continental
 ## Resumen
 Se aborda un enfoque analítico para la comprensión y procesamiento de los datos, incluyendo el concepto de minería de datos como la extracción de datos importantes para la toma de decisiones, en particular cuando estos datos son notoriamente complejos, generando competencias para manejar instrumentos de análisis exploratorio de datos, incluyendo técnicas de clasificación y predicción. En la clasificación y predicción se incluye competencias de modelamiento, complementando la teoría con ejercicios prácticos en Python. Se incluye los principales modelos predictivos y de clustering.
