@@ -41,6 +41,9 @@ TEMAS ADICIONALES
 Como recomendación para ampliar este mismo tema y conectarlo con lo que todavía se llama BigData, se recomienda este archivo en Colab que combina el modelamiento predictivo de machine learning (regresión lineal y otros) utilizando la plataforma de BigQuery en Google Cloud Platform. 
 https://colab.research.google.com/github/iampatgrady/Colaboratory-Analytics-Demos/blob/master/ML_Demo__Using_BQML_to_make_predictions.ipynb#scrollTo=O62ZVAjmQreq
 
+Como recomendación para consultar sobre visualización de datos
+https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+
 
 MIT License
 
